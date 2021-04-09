@@ -113,7 +113,15 @@ ul {
 
 .image2{
     margin-top: 35px;
-    margin-left: 60px;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    width: 90%;
+    height: auto;
+}
+
+.image3{
+    margin-top: 35px;
     background-size: cover;
     background-position: center;
     color: black;
