@@ -1,0 +1,130 @@
+body{
+  
+    font-family: "Inv Maison Neue","Maison Neue",-apple-system,BlinkMacSystemFont,"Open Sans",open-sans,sans-serif;
+}
+
+.brand{
+    background: url(assets/image/body-wash-collection.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.brand2{
+    height: 80vh;
+    background-color: #FFEFD5;
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+html{
+    height: 100%;
+}
+
+.sales-reminder{
+    background: black;
+    color: #F8F8FF;
+    font-size: 12px;
+    height: 35px;
+    text-align: center;
+}
+
+.nav{
+    height: 160px;
+    background-color:#F8F8FF;;  
+}
+
+.logo{
+    background-repeat: no-repeat;
+    margin-left: 180px;
+    width: 50%;
+    height: auto;
+}
+
+#content{
+    padding-top: 10%;
+    padding-left: 10%;
+    
+}
+
+#slogan h4{
+    font-weight: bold;
+    font-size: 2em;
+    color: black;
+}
+
+#slogan h5{
+     color: black;
+  
+}
+
+#brand2slogan{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+#brand3slogan{
+    text-align: left;
+    margin-top: 30px;
+
+}
+
+
+#slogan{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#content h3{
+    font-weight: 500;
+    font-size: 3em;
+    color: white;
+}
+
+#content h5{
+     color: white;
+}
+
+
+
+hr{
+    width: 400px;
+    color: white;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.btn{
+    color: white;
+    font-size: 15px;
+}
+
+.author{
+    font-size: 11px;
+    margin-top: 20px;
+}
+
+.image2{
+    margin-top: 35px;
+    margin-left: 60px;
+    background-size: cover;
+    background-position: center;
+    color: black;
+    width: 60%;
+    height: auto;
+}
+
+.footer{
+    background-color: black;
+}
+
+.card{
+    text-align: center;
+}
